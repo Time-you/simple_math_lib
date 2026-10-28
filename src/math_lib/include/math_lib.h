@@ -70,3 +70,9 @@ namespace MathLib
     // Function to search GCD
     int GCD(int a, int b);
 }
+
+namespace MathLib
+{
+    // Function to calculate the third angle of a triangle from two known angles (in degrees)
+    double thirdAngle(double a, double b);
+}
